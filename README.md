@@ -13,7 +13,7 @@ sudo apt install swig
 
 Or you can use guide http://swig.org/svn.html (there are tests and you can check missing libs)
 
-### Обертывание
+### Wrapping
 
 Create and fill a file with extension .i ( http://www.swig.org/Doc4.0/SWIGDocumentation.html# )
 In directory contains .cpp, .h, .i files execute swig -csharp -c++ edlines.i.
